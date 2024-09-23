@@ -1,0 +1,251 @@
+Country,capital,population,area (in square km),region,subregion,languages,currency,male_life_expectancy,female_life_expectancy
+Afghanistan,Kabul,40218234,652230.0,Asia,Southern Asia,"['Dari', 'Pashto', 'Turkmen']",Afghan afghani,63,66
+Albania,Tirana,2837743,28748.0,Europe,Southeast Europe,['Albanian'],Albanian lek,74,80
+Algeria,Algiers,44700000,2381741.0,Africa,Northern Africa,['Arabic'],Algerian dinar,75,78
+American Samoa,Pago Pago,55197,199.0,Oceania,Polynesia,"['English', 'Samoan']",United States dollar,N/A,N/A
+Andorra,Andorra la Vella,77265,468.0,Europe,Southern Europe,['Catalan'],Euro,80,84
+Angola,Luanda,32866268,1246700.0,Africa,Middle Africa,['Portuguese'],Angolan kwanza,60,65
+Anguilla,The Valley,13452,91.0,Americas,Caribbean,['English'],Eastern Caribbean dollar,79,84
+Antarctica,N/A,1000,14000000.0,Antarctic,N/A,[],N/A,N/A,N/A
+Antigua and Barbuda,Saint John's,97928,442.0,Americas,Caribbean,['English'],Eastern Caribbean dollar,75,78
+Argentina,Buenos Aires,45376763,2780400.0,Americas,South America,"['Guaraní', 'Spanish']",Argentine peso,73,80
+Armenia,Yerevan,2963234,29743.0,Asia,Western Asia,['Armenian'],Armenian dram,72,79
+Aruba,Oranjestad,106766,180.0,Americas,Caribbean,"['Dutch', 'Papiamento']",Aruban florin,73,78
+Australia,Canberra,25687041,7692024.0,Oceania,Australia and New Zealand,['English'],Australian dollar,81,85
+Austria,Vienna,8917205,83871.0,Europe,Central Europe,['German'],Euro,78,83
+Azerbaijan,Baku,10110116,86600.0,Asia,Western Asia,['Azerbaijani'],Azerbaijani manat,70,75
+Bahamas,Nassau,393248,13943.0,Americas,Caribbean,['English'],Bahamian dollar,69,76
+Bahrain,Manama,1701583,765.0,Asia,Western Asia,['Arabic'],Bahraini dinar,78,80
+Bangladesh,Dhaka,164689383,147570.0,Asia,Southern Asia,['Bengali'],Bangladeshi taka,71,74
+Barbados,Bridgetown,287371,430.0,Americas,Caribbean,['English'],Barbadian dollar,77,80
+Belarus,Minsk,9398861,207600.0,Europe,Eastern Europe,"['Belarusian', 'Russian']",Belarusian ruble,69,79
+Belgium,Brussels,11555997,30528.0,Europe,Western Europe,"['German', 'French', 'Dutch']",Euro,79,84
+Belize,Belmopan,397621,22966.0,Americas,Central America,"['Belizean Creole', 'English', 'Spanish']",Belize dollar,71,77
+Benin,Porto-Novo,12123198,112622.0,Africa,Western Africa,['French'],West African CFA franc,60,63
+Bermuda,Hamilton,63903,54.0,Americas,North America,['English'],Bermudian dollar,78,86
+Bhutan,Thimphu,771612,38394.0,Asia,Southern Asia,['Dzongkha'],Bhutanese ngultrum,68,71
+Bolivia,Sucre,11673029,1098581.0,Americas,South America,"['Aymara', 'Guaraní', 'Quechua', 'Spanish']",Bolivian boliviano,71,73
+Bosnia and Herzegovina,Sarajevo,3280815,51209.0,Europe,Southeast Europe,"['Bosnian', 'Croatian', 'Serbian']",Bosnia and Herzegovina convertible mark,N/A,N/A
+Botswana,Gaborone,2351625,582000.0,Africa,Southern Africa,"['English', 'Tswana']",Botswana pula,66,72
+Bouvet Island,N/A,0,49.0,Antarctic,N/A,['Norwegian'],N/A,N/A,N/A
+Brazil,Brasília,212559409,8515767.0,Americas,South America,['Portuguese'],Brazilian real,72,79
+British Indian Ocean Territory,Diego Garcia,3000,60.0,Africa,Eastern Africa,['English'],United States dollar,N/A,N/A
+British Virgin Islands,Road Town,30237,151.0,Americas,Caribbean,['English'],United States dollar,77,81
+Brunei,Bandar Seri Begawan,437483,5765.0,Asia,South-Eastern Asia,['Malay'],Brunei dollar,73,75
+Bulgaria,Sofia,6927288,110879.0,Europe,Southeast Europe,['Bulgarian'],Bulgarian lev,77,69
+Burkina Faso,Ouagadougou,20903278,272967.0,Africa,Western Africa,['French'],West African CFA franc,61,62
+Burundi,Gitega,11890781,27834.0,Africa,Eastern Africa,"['French', 'Kirundi']",Burundian franc,62,and
+Cambodia,Phnom Penh,16718971,181035.0,Asia,South-Eastern Asia,['Khmer'],Cambodian riel,68,73
+Cameroon,Yaoundé,26545864,475442.0,Africa,Middle Africa,"['English', 'French']",Central African CFA franc,59,63
+Canada,Ottawa,38005238,9984670.0,Americas,North America,"['English', 'French']",Canadian dollar,79,83
+Cape Verde,Praia,555988,4033.0,Africa,Western Africa,['Portuguese'],Cape Verdean escudo,69,77
+Caribbean Netherlands,Kralendijk,25987,328.0,Americas,Caribbean,"['English', 'Dutch', 'Papiamento']",United States dollar,N/A,N/A
+Cayman Islands,George Town,65720,264.0,Americas,Caribbean,['English'],Cayman Islands dollar,78,83
+Central African Republic,Bangui,4829764,622984.0,Africa,Middle Africa,"['French', 'Sango']",Central African CFA franc,53,57
+Chad,N'Djamena,16425859,1284000.0,Africa,Middle Africa,"['Arabic', 'French']",Central African CFA franc,51,54
+Chile,Santiago,19116209,756102.0,Americas,South America,['Spanish'],Chilean peso,78,83
+China,Taipei,23503349,36193.0,Asia,Eastern Asia,['Chinese'],New Taiwan dollar,74,79
+Christmas Island,Flying Fish Cove,2072,135.0,Oceania,Australia and New Zealand,['English'],Australian dollar,N/A,N/A
+Cocos (Keeling) Islands,West Island,544,14.0,Oceania,Australia and New Zealand,['English'],Australian dollar,N/A,N/A
+Colombia,Bogotá,50882884,1141748.0,Americas,South America,['Spanish'],Colombian peso,72,78
+Comoros,Moroni,869595,1862.0,Africa,Eastern Africa,"['Arabic', 'French', 'Comorian']",Comorian franc,62,67
+Cook Islands,Avarua,18100,236.0,Oceania,Polynesia,"['English', 'Cook Islands Māori']",Cook Islands dollar,72,78
+Costa Rica,San José,5094114,51100.0,Americas,Central America,['Spanish'],Costa Rican colón,77,82
+Croatia,Zagreb,4047200,56594.0,Europe,Southeast Europe,['Croatian'],Euro,74,80
+Cuba,Havana,11326616,109884.0,Americas,Caribbean,['Spanish'],Cuban convertible peso,75,80
+Curaçao,Willemstad,155014,444.0,Americas,Caribbean,"['English', 'Dutch', 'Papiamento']",Netherlands Antillean guilder,N/A,N/A
+Cyprus,Nicosia,1207361,9251.0,Europe,Southern Europe,"['Greek', 'Turkish']",Euro,79,83
+Czechia,Prague,10698896,78865.0,Europe,Central Europe,"['Czech', 'Slovak']",Czech koruna,N/A,N/A
+DR Congo,Kinshasa,108407721,2344858.0,Africa,Middle Africa,"['French', 'Kikongo', 'Lingala', 'Tshiluba', 'Swahili']",Congolese franc,N/A,N/A
+Denmark,Copenhagen,5831404,43094.0,Europe,Northern Europe,['Danish'],Danish krone,79,83
+Djibouti,Djibouti,988002,23200.0,Africa,Eastern Africa,"['Arabic', 'French']",Djiboutian franc,65,69
+Dominica,Santo Domingo,10847904,48671.0,Americas,Caribbean,['Spanish'],Dominican peso,71,77
+Dominican Republic,Santo Domingo,10847904,48671.0,Americas,Caribbean,['Spanish'],Dominican peso,69,77
+Ecuador,Quito,17643060,276841.0,Americas,South America,['Spanish'],United States dollar,74,80
+Egypt,Cairo,102334403,1002450.0,Africa,Northern Africa,['Arabic'],Egyptian pound,69,74
+El Salvador,San Salvador,6486201,21041.0,Americas,Central America,['Spanish'],United States dollar,68,78
+Equatorial Guinea,Malabo,1402985,28051.0,Africa,Middle Africa,"['French', 'Portuguese', 'Spanish']",Central African CFA franc,59,63
+Eritrea,Asmara,5352000,117600.0,Africa,Eastern Africa,"['Arabic', 'English', 'Tigrinya']",Eritrean nakfa,64,68
+Estonia,Tallinn,1331057,45227.0,Europe,Northern Europe,['Estonian'],Euro,74,82
+Eswatini,Mbabane,1160164,17364.0,Africa,Southern Africa,"['English', 'Swazi']",Swazi lilangeni,56,64
+Ethiopia,Addis Ababa,114963583,1104300.0,Africa,Eastern Africa,['Amharic'],Ethiopian birr,65,68
+Falkland Islands,Stanley,2563,12173.0,Americas,South America,['English'],Falkland Islands pound,75,79
+Faroe Islands,Tórshavn,48865,1393.0,Europe,Northern Europe,"['Danish', 'Faroese']",Danish krone,79,84
+Fiji,Suva,896444,18272.0,Oceania,Melanesia,"['English', 'Fijian', 'Fiji Hindi']",Fijian dollar,65,69
+Finland,Helsinki,5530719,338424.0,Europe,Northern Europe,"['Finnish', 'Swedish']",Euro,79,84
+France,Paris,67391582,551695.0,Europe,Western Europe,['French'],Euro,79,85
+French Guiana,Cayenne,254541,83534.0,Americas,South America,['French'],Euro,72,80
+French Polynesia,Papeetē,280904,4167.0,Oceania,Polynesia,['French'],CFP franc,77,83
+French Southern and Antarctic Lands,Port-aux-Français,400,7747.0,Antarctic,N/A,['French'],Euro,N/A,N/A
+Gabon,Libreville,2225728,267668.0,Africa,Middle Africa,['French'],Central African CFA franc,64,69
+Gambia,Banjul,2416664,10689.0,Africa,Western Africa,['English'],dalasi,N/A,N/A
+Georgia,King Edward Point,30,3903.0,Antarctic,N/A,['English'],Saint Helena pound,69,78
+Germany,Berlin,83240525,357114.0,Europe,Western Europe,['German'],Euro,78,83
+Ghana,Accra,31072945,238533.0,Africa,Western Africa,['English'],Ghanaian cedi,63,65
+Gibraltar,Gibraltar,33691,6.0,Europe,Southern Europe,['English'],Gibraltar pound,75,81
+Greece,Athens,10715549,131990.0,Europe,Southern Europe,['Greek'],Euro,78,83
+Greenland,Nuuk,56367,2166086.0,Americas,North America,['Greenlandic'],krone,71,76
+Grenada,St. George's,112519,344.0,Americas,Caribbean,['English'],Eastern Caribbean dollar,72,78
+Guadeloupe,Basse-Terre,400132,1628.0,Americas,Caribbean,['French'],Euro,76,82
+Guam,Hagåtña,168783,549.0,Oceania,Micronesia,"['Chamorro', 'English', 'Spanish']",United States dollar,77,83
+Guatemala,Guatemala City,16858333,108889.0,Americas,Central America,['Spanish'],Guatemalan quetzal,71,77
+Guernsey,St. Peter Port,62999,78.0,Europe,Northern Europe,"['English', 'French', 'Guernésiais']",British pound,N/A,N/A
+Guinea,Bissau,1967998,36125.0,Africa,Western Africa,"['Portuguese', 'Upper Guinea Creole']",West African CFA franc,61,62
+Guinea-Bissau,Bissau,1967998,36125.0,Africa,Western Africa,"['Portuguese', 'Upper Guinea Creole']",West African CFA franc,61,65
+Guyana,Georgetown,786559,214969.0,Americas,South America,['English'],Guyanese dollar,67,73
+Haiti,Port-au-Prince,11402533,27750.0,Americas,Caribbean,"['French', 'Haitian Creole']",Haitian gourde,62,66
+Heard Island and McDonald Islands,N/A,0,412.0,Antarctic,N/A,['English'],N/A,N/A,N/A
+Honduras,Tegucigalpa,9904608,112492.0,Americas,Central America,['Spanish'],Honduran lempira,69,74
+Hong Kong,City of Victoria,7500700,1104.0,Asia,Eastern Asia,"['English', 'Chinese']",Hong Kong dollar,82,88
+Hungary,Budapest,9749763,93028.0,Europe,Central Europe,['Hungarian'],Hungarian forint,72,79
+Iceland,Reykjavik,366425,103000.0,Europe,Northern Europe,['Icelandic'],Icelandic króna,80,84
+India,New Delhi,1380004385,3287590.0,Asia,Southern Asia,"['English', 'Hindi', 'Tamil']",Indian rupee,68,71
+Indonesia,Jakarta,273523621,1904569.0,Asia,South-Eastern Asia,['Indonesian'],Indonesian rupiah,68,72
+Iran,Tehran,83992953,1648195.0,Asia,Southern Asia,['Persian (Farsi)'],Iranian rial,,
+Iraq,Baghdad,40222503,438317.0,Asia,Western Asia,"['Arabic', 'Aramaic', 'Sorani']",Iraqi dinar,69,75
+Ireland,London,67215293,242900.0,Europe,Northern Europe,['English'],British pound,80,84
+Isle of Man,Douglas,85032,572.0,Europe,Northern Europe,"['English', 'Manx']",British pound,78,83
+Israel,Jerusalem,9216900,20770.0,Asia,Western Asia,"['Arabic', 'Hebrew']",Israeli new shekel,80,84
+Italy,Rome,59554023,301336.0,Europe,Southern Europe,['Italian'],Euro,79,84
+Ivory Coast,Yamoussoukro,26378275,322463.0,Africa,Western Africa,['French'],West African CFA franc,62,65
+Jamaica,Kingston,2961161,10991.0,Americas,Caribbean,"['English', 'Jamaican Patois']",Jamaican dollar,70,74
+Japan,Tokyo,125836021,377930.0,Asia,Eastern Asia,['Japanese'],Japanese yen,81,87
+Jersey,Saint Helier,100800,116.0,Europe,Northern Europe,"['English', 'French', 'Jèrriais']",British pound,N/A,N/A
+Jordan,Amman,10203140,89342.0,Asia,Western Asia,['Arabic'],Jordanian dinar,72,77
+Kazakhstan,Nur-Sultan,18754440,2724900.0,Asia,Central Asia,"['Kazakh', 'Russian']",Kazakhstani tenge,67,75
+Kenya,Nairobi,53771300,580367.0,Africa,Eastern Africa,"['English', 'Swahili']",Kenyan shilling,64,69
+Kiribati,South Tarawa,119446,811.0,Oceania,Micronesia,"['English', 'Gilbertese']",Australian dollar,65,68
+Kosovo,Pristina,1775378,10908.0,Europe,Southeast Europe,"['Albanian', 'Serbian']",Euro,68,73
+Kuwait,Kuwait City,4270563,17818.0,Asia,Western Asia,['Arabic'],Kuwaiti dinar,78,82
+Kyrgyzstan,Bishkek,6591600,199951.0,Asia,Central Asia,"['Kyrgyz', 'Russian']",Kyrgyzstani som,67,76
+Laos,Vientiane,7275556,236800.0,Asia,South-Eastern Asia,['Lao'],Lao kip,66,70
+Latvia,Riga,1901548,64559.0,Europe,Northern Europe,['Latvian'],Euro,70,80
+Lebanon,Beirut,6825442,10452.0,Asia,Western Asia,"['Arabic', 'French']",Lebanese pound,76,80
+Lesotho,Maseru,2142252,30355.0,Africa,Southern Africa,"['English', 'Sotho']",Lesotho loti,51,57
+Liberia,Monrovia,5057677,111369.0,Africa,Western Africa,['English'],Liberian dollar,59,62
+Libya,Tripoli,6871287,1759540.0,Africa,Northern Africa,['Arabic'],Libyan dinar,70,75
+Liechtenstein,Vaduz,38137,160.0,Europe,Western Europe,['German'],Swiss franc,80,85
+Lithuania,Vilnius,2794700,65300.0,Europe,Northern Europe,['Lithuanian'],Euro,70,80
+Luxembourg,Luxembourg,632275,2586.0,Europe,Western Europe,"['German', 'French', 'Luxembourgish']",Euro,79,84
+Macau,N/A,649342,30.0,Asia,Eastern Asia,"['Portuguese', 'Chinese']",Macanese pataca,83,88
+Madagascar,Antananarivo,27691019,587041.0,Africa,Eastern Africa,"['French', 'Malagasy']",Malagasy ariary,63,68
+Malawi,Lilongwe,19129955,118484.0,Africa,Eastern Africa,"['English', 'Chewa']",Malawian kwacha,60,67
+Malaysia,Kuala Lumpur,32365998,330803.0,Asia,South-Eastern Asia,"['English', 'Malay']",Malaysian ringgit,71,76
+Maldives,Malé,540542,300.0,Asia,Southern Asia,['Maldivian'],Maldivian rufiyaa,N/A,N/A
+Mali,Bamako,20250834,1240192.0,Africa,Western Africa,['French'],West African CFA franc,57,59
+Malta,Valletta,525285,316.0,Europe,Southern Europe,"['English', 'Maltese']",Euro,80,84
+Marshall Islands,Majuro,59194,181.0,Oceania,Micronesia,"['English', 'Marshallese']",United States dollar,64,67
+Martinique,Fort-de-France,378243,1128.0,Americas,Caribbean,['French'],Euro,78,84
+Mauritania,Nouakchott,4649660,1030700.0,Africa,Western Africa,['Arabic'],Mauritanian ouguiya,62,66
+Mauritius,Port Louis,1265740,2040.0,Africa,Eastern Africa,"['English', 'French', 'Mauritian Creole']",Mauritian rupee,71,78
+Mayotte,Mamoudzou,226915,374.0,Africa,Eastern Africa,['French'],Euro,N/A,N/A
+Mexico,Mexico City,128932753,1964375.0,Americas,North America,['Spanish'],Mexican peso,73,78
+Micronesia,Palikir,115021,702.0,Oceania,Micronesia,['English'],United States dollar,67,75
+Moldova,Chișinău,2617820,33846.0,Europe,Eastern Europe,['Romanian'],Moldovan leu,67,76
+Monaco,Monaco,39244,2.02,Europe,Western Europe,['French'],Euro,85,93
+Mongolia,Ulan Bator,3278292,1564110.0,Asia,Eastern Asia,['Mongolian'],Mongolian tögrög,67,77
+Montenegro,Podgorica,621718,13812.0,Europe,Southeast Europe,['Montenegrin'],Euro,73,78
+Montserrat,Plymouth,4922,102.0,Americas,Caribbean,['English'],Eastern Caribbean dollar,74,76
+Morocco,Rabat,36910558,446550.0,Africa,Northern Africa,"['Arabic', 'Berber']",Moroccan dirham,72,76
+Mozambique,Maputo,31255435,801590.0,Africa,Eastern Africa,['Portuguese'],Mozambican metical,58,64
+Myanmar,Naypyidaw,54409794,676578.0,Asia,South-Eastern Asia,['Burmese'],Burmese kyat,N/A,N/A
+Namibia,Windhoek,2540916,825615.0,Africa,Southern Africa,"['Afrikaans', 'German', 'English', 'Herero', 'Khoekhoe', 'Kwangali', 'Lozi', 'Ndonga', 'Tswana']",Namibian dollar,59,67
+Nauru,Yaren,10834,21.0,Oceania,Micronesia,"['English', 'Nauru']",Australian dollar,64,67
+Nepal,Kathmandu,29136808,147181.0,Asia,Southern Asia,['Nepali'],Nepalese rupee,69,72
+Netherlands,Amsterdam,16655799,41850.0,Europe,Western Europe,['Dutch'],Euro,79,83
+New Caledonia,Nouméa,271960,18575.0,Oceania,Melanesia,['French'],CFP franc,75,83
+New Zealand,Wellington,5084300,270467.0,Oceania,Australia and New Zealand,"['English', 'Māori', 'New Zealand Sign Language']",New Zealand dollar,80,83
+Nicaragua,Managua,6624554,130373.0,Americas,Central America,['Spanish'],Nicaraguan córdoba,72,77
+Niger,Niamey,24206636,1267000.0,Africa,Western Africa,['French'],West African CFA franc,60,62
+Nigeria,Abuja,206139587,923768.0,Africa,Western Africa,['English'],Nigerian naira,59,63
+Niue,Alofi,1470,260.0,Oceania,Polynesia,"['English', 'Niuean']",New Zealand dollar,71,75
+Norfolk Island,Kingston,2302,36.0,Oceania,Australia and New Zealand,"['English', 'Norfuk']",Australian dollar,N/A,N/A
+North Korea,Pyongyang,25778815,120538.0,Asia,Eastern Asia,['Korean'],North Korean won,68,75
+North Macedonia,Skopje,2077132,25713.0,Europe,Southeast Europe,['Macedonian'],denar,73,77
+Northern Mariana Islands,Saipan,57557,464.0,Oceania,Micronesia,"['Carolinian', 'Chamorro', 'English']",United States dollar,74,79
+Norway,Oslo,5379475,323802.0,Europe,Northern Europe,"['Norwegian Nynorsk', 'Norwegian Bokmål', 'Sami']",Norwegian krone,81,84
+Oman,Bucharest,19286123,238391.0,Europe,Southeast Europe,['Romanian'],Romanian leu,76,80
+Pakistan,Islamabad,220892331,881912.0,Asia,Southern Asia,"['English', 'Urdu']",Pakistani rupee,66,68
+Palau,Ngerulmud,18092,459.0,Oceania,Micronesia,"['English', 'Palauan']",United States dollar,69,75
+Palestine,Ramallah,4803269,6220.0,Asia,Western Asia,['Arabic'],Egyptian pound,N/A,N/A
+Panama,Panama City,4314768,75417.0,Americas,Central America,['Spanish'],Panamanian balboa,73,80
+Papua New Guinea,Port Moresby,8947027,462840.0,Oceania,Melanesia,"['English', 'Hiri Motu', 'Tok Pisin']",Papua New Guinean kina,63,68
+Paraguay,Asunción,7132530,406752.0,Americas,South America,"['Guaraní', 'Spanish']",Paraguayan guaraní,70,76
+Peru,Lima,32971846,1285216.0,Americas,South America,"['Aymara', 'Quechua', 'Spanish']",Peruvian sol,74,79
+Philippines,Manila,109581085,342353.0,Asia,South-Eastern Asia,"['English', 'Filipino']",Philippine peso,N/A,N/A
+Pitcairn Islands,Adamstown,56,47.0,Oceania,Polynesia,['English'],New Zealand dollar,N/A,N/A
+Poland,Warsaw,37950802,312679.0,Europe,Central Europe,['Polish'],Polish złoty,72,80
+Portugal,Lisbon,10305564,92090.0,Europe,Southern Europe,['Portuguese'],Euro,78,84
+Puerto Rico,San Juan,3194034,8870.0,Americas,Caribbean,"['English', 'Spanish']",United States dollar,73,82
+Qatar,Doha,2881060,11586.0,Asia,Western Asia,['Arabic'],Qatari riyal,79,82
+Republic of the Congo,Brazzaville,5657000,342000.0,Africa,Middle Africa,"['French', 'Kikongo', 'Lingala']",Central African CFA franc,N/A,N/A
+Romania,Bucharest,19286123,238391.0,Europe,Southeast Europe,['Romanian'],Romanian leu,70,78
+Russia,Moscow,144104080,17098242.0,Europe,Eastern Europe,['Russian'],Russian ruble,66,76
+Rwanda,Kigali,12952209,26338.0,Africa,Eastern Africa,"['English', 'French', 'Kinyarwanda']",Rwandan franc,64,69
+Réunion,Saint-Denis,840974,2511.0,Africa,Eastern Africa,['French'],Euro,N/A,N/A
+Saint Barthélemy,Gustavia,4255,21.0,Americas,Caribbean,['French'],Euro,N/A,N/A
+"Saint Helena, Ascension and Tristan da Cunha",Jamestown,53192,394.0,Africa,Western Africa,['English'],Pound sterling,76,82
+Saint Kitts and Nevis,Basseterre,53192,261.0,Americas,Caribbean,['English'],Eastern Caribbean dollar,N/A,N/A
+Saint Lucia,Castries,183629,616.0,Americas,Caribbean,['English'],Eastern Caribbean dollar,N/A,N/A
+Saint Martin,Marigot,38659,53.0,Americas,Caribbean,['French'],Euro,N/A,N/A
+Saint Pierre and Miquelon,Saint-Pierre,6069,242.0,Americas,North America,['French'],Euro,N/A,N/A
+Saint Vincent and the Grenadines,Kingstown,110947,389.0,Americas,Caribbean,['English'],Eastern Caribbean dollar,N/A,N/A
+Samoa,Pago Pago,55197,199.0,Oceania,Polynesia,"['English', 'Samoan']",United States dollar,70,76
+San Marino,City of San Marino,33938,61.0,Europe,Southern Europe,['Italian'],Euro,85,89
+Saudi Arabia,Riyadh,34813867,2149690.0,Asia,Western Asia,['Arabic'],Saudi riyal,74,76
+Senegal,Dakar,16743930,196722.0,Africa,Western Africa,['French'],West African CFA franc,65,70
+Serbia,Belgrade,6908224,88361.0,Europe,Southeast Europe,['Serbian'],Serbian dinar,71,77
+Seychelles,Victoria,98462,452.0,Africa,Eastern Africa,"['Seychellois Creole', 'English', 'French']",Seychellois rupee,72,82
+Sierra Leone,Freetown,7976985,71740.0,Africa,Western Africa,['English'],Sierra Leonean leone,58,61
+Singapore,Singapore,5685807,710.0,Asia,South-Eastern Asia,"['English', 'Chinese', 'Malay', 'Tamil']",Singapore dollar,81,86
+Sint Maarten,Philipsburg,40812,34.0,Americas,Caribbean,"['English', 'French', 'Dutch']",Netherlands Antillean guilder,72,77
+Slovakia,Bratislava,5458827,49037.0,Europe,Central Europe,['Slovak'],Euro,73,80
+Slovenia,Ljubljana,2100126,20273.0,Europe,Central Europe,['Slovene'],Euro,77,83
+Solomon Islands,Honiara,686878,28896.0,Oceania,Melanesia,['English'],Solomon Islands dollar,62,67
+Somalia,Mogadishu,15893219,637657.0,Africa,Eastern Africa,"['Arabic', 'Somali']",Somali shilling,55,59
+South Africa,Pretoria,59308690,1221037.0,Africa,Southern Africa,"['Afrikaans', 'English', 'Southern Ndebele', 'Northern Sotho', 'Southern Sotho', 'Swazi', 'Tswana', 'Tsonga', 'Venda', 'Xhosa', 'Zulu']",South African rand,60,67
+South Georgia,King Edward Point,30,3903.0,Antarctic,N/A,['English'],Saint Helena pound,N/A,N/A
+South Korea,Seoul,51780579,100210.0,Asia,Eastern Asia,['Korean'],South Korean won,80,86
+South Sudan,Juba,11193729,619745.0,Africa,Middle Africa,['English'],South Sudanese pound,54,57
+Spain,Madrid,47351567,505992.0,Europe,Southern Europe,"['Spanish', 'Catalan', 'Basque', 'Galician']",Euro,79,85
+Sri Lanka,Sri Jayawardenepura Kotte,21919000,65610.0,Asia,Southern Asia,"['Sinhala', 'Tamil']",Sri Lankan rupee,73,80
+Sudan,Khartoum,43849269,1886068.0,Africa,Northern Africa,"['Arabic', 'English']",Sudanese pound,63,68
+Suriname,Paramaribo,586634,163820.0,Americas,South America,['Dutch'],Surinamese dollar,69,75
+Svalbard and Jan Mayen,Longyearbyen,2562,61399.0,Europe,Northern Europe,['Norwegian'],krone,N/A,N/A
+Sweden,Stockholm,10353442,450295.0,Europe,Northern Europe,['Swedish'],Swedish krona,of,life
+Switzerland,Bern,8654622,41284.0,Europe,Western Europe,"['French', 'Swiss German', 'Italian', 'Romansh']",Swiss franc,81,85
+Syria,Damascus,17500657,185180.0,Asia,Western Asia,['Arabic'],Syrian pound,68,75
+São Tomé and Príncipe,São Tomé,219161,964.0,Africa,Middle Africa,['Portuguese'],São Tomé and Príncipe dobra,N/A,N/A
+Taiwan,Taipei,23503349,36193.0,Asia,Eastern Asia,['Chinese'],New Taiwan dollar,77,84
+Tajikistan,Dushanbe,9537642,143100.0,Asia,Central Asia,"['Russian', 'Tajik']",Tajikistani somoni,69,73
+Tanzania,Dodoma,59734213,945087.0,Africa,Eastern Africa,"['English', 'Swahili']",Tanzanian shilling,64,68
+Thailand,Bangkok,69799978,513120.0,Asia,South-Eastern Asia,['Thai'],Thai baht,75,83
+Timor-Leste,Dili,1318442,14874.0,Asia,South-Eastern Asia,"['Portuguese', 'Tetum']",United States dollar,N/A,N/A
+Togo,Lomé,8278737,56785.0,Africa,Western Africa,['French'],West African CFA franc,60,62
+Tokelau,Fakaofo,1411,12.0,Oceania,Polynesia,"['English', 'Samoan', 'Tokelauan']",New Zealand dollar,68,70
+Tonga,Nuku'alofa,105697,747.0,Oceania,Polynesia,"['English', 'Tongan']",Tongan paʻanga,69,75
+Trinidad and Tobago,Port of Spain,1399491,5130.0,Americas,Caribbean,['English'],Trinidad and Tobago dollar,72,79
+Tunisia,Tunis,11818618,163610.0,Africa,Northern Africa,['Arabic'],Tunisian dinar,72,79
+Turkey,Ankara,84339067,783562.0,Asia,Western Asia,['Turkish'],Turkish lira,74,80
+Turkmenistan,Ashgabat,6031187,488100.0,Asia,Central Asia,"['Russian', 'Turkmen']",Turkmenistan manat,64,71
+Turks and Caicos Islands,Cockburn Town,38718,948.0,Americas,Caribbean,['English'],United States dollar,N/A,N/A
+Tuvalu,Funafuti,11792,26.0,Oceania,Polynesia,"['English', 'Tuvaluan']",Australian dollar,62,67
+Uganda,Kampala,45741000,241550.0,Africa,Eastern Africa,"['English', 'Swahili']",Ugandan shilling,61,65
+Ukraine,Kyiv,44134693,603500.0,Europe,Eastern Europe,['Ukrainian'],Ukrainian hryvnia,68,77
+United Arab Emirates,Abu Dhabi,9890400,83600.0,Asia,Western Asia,['Arabic'],United Arab Emirates dirham,N/A,N/A
+United Kingdom,London,67215293,242900.0,Europe,Northern Europe,['English'],British pound,79,83
+United States,Washington DC,300,34.2,Americas,North America,['English'],United States dollar,N/A,N/A
+United States Minor Outlying Islands,Washington DC,300,34.2,Americas,North America,['English'],United States dollar,N/A,N/A
+United States Virgin Islands,Charlotte Amalie,106290,347.0,Americas,Caribbean,['English'],United States dollar,N/A,N/A
+Uruguay,Montevideo,3473727,181034.0,Americas,South America,['Spanish'],Uruguayan peso,74,81
+Uzbekistan,Tashkent,34232050,447400.0,Asia,Central Asia,"['Russian', 'Uzbek']",Uzbekistani soʻm,69,76
+Vanuatu,Port Vila,307150,12189.0,Oceania,Melanesia,"['Bislama', 'English', 'French']",Vanuatu vatu,68,72
+Vatican City,Vatican City,451,0.44,Europe,Southern Europe,"['Italian', 'Latin']",Euro,N/A,N/A
+Venezuela,Caracas,28435943,916445.0,Americas,South America,['Spanish'],Venezuelan bolívar soberano,67,76
+Vietnam,Hanoi,97338583,331212.0,Asia,South-Eastern Asia,['Vietnamese'],Vietnamese đồng,71,79
+Wallis and Futuna,Mata-Utu,11750,142.0,Oceania,Polynesia,['French'],CFP franc,N/A,N/A
+Western Sahara,El Aaiún,510713,266000.0,Africa,Northern Africa,"['Berber', 'Hassaniya', 'Spanish']",Algerian dinar,62,67
+Yemen,Sana'a,29825968,527968.0,Asia,Western Asia,['Arabic'],Yemeni rial,61,67
+Zambia,Lusaka,18383956,752612.0,Africa,Eastern Africa,['English'],Zambian kwacha,60,65
+Zimbabwe,Harare,14862927,390757.0,Africa,Southern Africa,"['Chibarwe', 'English', 'Kalanga', 'Khoisan', 'Ndau', 'Northern Ndebele', 'Chewa', 'Shona', 'Sotho', 'Tonga', 'Tswana', 'Tsonga', 'Venda', 'Xhosa', 'Zimbabwean Sign Language']",Zimbabwean dollar,59,62
+Åland Islands,Mariehamn,29458,1580.0,Europe,Northern Europe,['Swedish'],Euro,N/A,N/A
